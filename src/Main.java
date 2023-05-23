@@ -13,6 +13,6 @@ class Main {
 //add method returns the max int between two int numbers
         int x=5;
         int y=7;
-        System.out.print(x==y);
+        System.out.print(x==y);// thats not true
     }
 }
