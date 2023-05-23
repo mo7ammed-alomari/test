@@ -10,6 +10,6 @@ class Main {
         String s =read.nextLine();
         System.out.println(s.matches("\\d+|\\d*\\w[.]\\d+|.\\d+"));
 
-
+//add method returns the max int between two int numbers
     }
 }
